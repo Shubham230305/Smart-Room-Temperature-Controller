@@ -33,5 +33,18 @@ A **Smart Room Temperature Controller** built with Arduino to automatically main
 
 ---
 
-## 🖼️ Circuit Diagram  
-*(Add your circuit diagram image here)*  
+## 🖼️ Circuit Diagram & 🎥 Working Video  
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Circuit Diagram</b><br>
+      <img src="https://github.com/Shubham230305/Smart-Room-Temperature-Controller/blob/main/IMAGES%20%26%20VIDEOS/SRTC_Circuit.png" alt="Circuit Diagram" width="400">
+    </td>
+    <td align="center">
+      <b>Working Demo</b><br>
+      <a href="https://github.com/Shubham230305/Smart-Room-Temperature-Controller/blob/main/IMAGES%20%26%20VIDEOS/NOT%20Mini%20Project.mp4">
+      </a>
+    </td>
+  </tr>
+</table>
