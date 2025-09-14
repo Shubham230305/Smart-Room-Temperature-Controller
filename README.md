@@ -44,7 +44,9 @@ A **Smart Room Temperature Controller** built with Arduino to automatically main
     <td align="center">
       <b>Working Demo</b><br>
       <a href="https://github.com/Shubham230305/Smart-Room-Temperature-Controller/blob/main/IMAGES%20%26%20VIDEOS/NOT%20Mini%20Project.mp4">
-      </a>
+        <img src="https://github.com/Shubham230305/Smart-Room-Temperature-Controller/blob/main/IMAGES%20%26%20VIDEOS/SRTC.png" width="400">
+      </a><br>
+      <sub>Click the image to watch the video</sub>
     </td>
   </tr>
 </table>
